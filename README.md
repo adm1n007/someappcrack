@@ -1,2 +1,2 @@
 # someappcrack
-some tweaks with some apps to unlock premium feature
+some tweaks for some apps to unlock premium feature
